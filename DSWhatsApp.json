@@ -1,10 +1,10 @@
 {
   "records": [
     {
-      "version": "DSWhatsApp v8.6.0",
-      "code": 23,
-      "url": "http://bit.ly/DSWhatsAppv8.6.0",
-      "changelog": "- Backup Restore Theme include Cover - Themes Store - Fix Bug (Semoga)"
+      "version": "DSWA ULTRA v8.7.0",
+      "code": 26,
+      "url": "http://t.me/destaseo_developers",
+      "changelog": "- Add Conversation List Animation - Redesign DSWA Settings - Add option to Save, Load and Restore Theme in DSWA Theme Store - Fix DND Mode - Fix Schedule Message - More.."
     }
   ]
 }
